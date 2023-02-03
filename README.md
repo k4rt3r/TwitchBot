@@ -2,6 +2,13 @@
 
 Send messages to Twitch.
 
+### Functions
+Currently capable of:
+-Play song on Pretzel
+-Twitter spam
+-Giveaway winner picker
+-Random greetings from greetings set
+
 ### Develop
 
 ```bash
