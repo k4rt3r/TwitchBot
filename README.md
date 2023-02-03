@@ -4,10 +4,11 @@ Send messages to Twitch.
 
 ### Functions
 Currently capable of:
--Play song on Pretzel
--Twitter spam
--Giveaway winner picker
--Random greetings from greetings set
+- Playing a song from Pretzel
+- Giveaway winner picker
+- Random greetings from greetings set
+- Twitter spam
+- Much more to come
 
 ### Develop
 
