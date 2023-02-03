@@ -1,0 +1,35 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "description": "sample for twitch",
+  "main": "src/index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.5.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.0",
+    "tmi.js": "^1.5.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuansanchez/TwitchBot.git"
+  },
+  "keywords": [
+    "javascript",
+    "twitch"
+  ],
+  "author": "Oscar Barajas <oscar@gndx.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shuansanchez/TwitchBot/issues"
+  },
+  "homepage": "https://github.com/shuansanchez/TwitchBot#readme"
+}
