@@ -25,8 +25,5 @@ npm run dev
 npm run start
 ```
 
-### Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [TwitchBot](https://github.com/shuansanchez/TwitchBot)
-
 ### License
 released under the [MIT License](https://opensource.org/licenses/MIT).
